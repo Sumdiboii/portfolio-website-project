@@ -2,7 +2,7 @@
 
 <!-- TITLE with Animated Typing Effect -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F61C1C&center=true&vCenter=true&width=435&lines=Code.+Create.+Conquer.;Hey,+I'm+Sumedh+Pimplikar!;Full-Stack+Developer+%7C+AI+Explorer+%7C+Designer" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F61C1C&center=true&vCenter=true&width=800&lines=Code.+Create.+Conquer.;Hey,+I'm+Sumedh+Pimplikar!;FullStack+Developer+%7C+AI+Explorer+%7C+Designer" alt="Typing SVG" />
 </p>
 
 <p align="center">
@@ -25,14 +25,21 @@
   <img src="https://img.icons8.com/color/60/presentation.png" alt="Presentation" width="50" hspace="20"/>
 </p>
 
+<br>
 
 
+<br>![Screenshot 2025-05-22 140121](https://github.com/user-attachments/assets/d2303c5a-ff6e-47da-b59e-ac50ab18d7e1)
 
+![Screenshot 2025-05-22 135908](https://github.com/user-attachments/assets/4c4ddc0b-eab5-4651-baae-1889ef8d3ec8)
 
+![Screenshot 2025-05-22 140011](https://github.com/user-attachments/assets/2fb89da1-9e67-4310-9477-1432e394dc26)
 
+![Screenshot 2025-05-22 140044](https://github.com/user-attachments/assets/0962b0d1-6c0a-47ea-996b-cc216729ed1f)
 
 <br>
-<br>
+
+
+
 
 
 <p align="center">
