@@ -149,9 +149,7 @@
   <tr>
     <th colspan="2" style="padding: 12px; font-size: 1.5em; text-align: center;">📬 Let's Collaborate</th>
   </tr>
-  <tr>
-    <td colspan="2" style="padding: 8px;">Wanna work together, have a cool idea, or just wanna vibe on code + guitars? Hit me up! 🤘</td>
-  </tr>
+ 
   <tr>
     <td style="padding: 8px; font-weight: bold; vertical-align: middle;">📧 Email:</td>
     <td style="padding: 8px; vertical-align: middle;">
