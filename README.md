@@ -32,7 +32,7 @@
 
 ![Screenshot 2025-05-22 135908](https://github.com/user-attachments/assets/4c4ddc0b-eab5-4651-baae-1889ef8d3ec8)
 
-![Screenshot 2025-05-22 140011](https://github.com/user-attachments/assets/2fb89da1-9e67-4310-9477-1432e394dc26)
+![image](https://github.com/user-attachments/assets/d052b34c-f439-4f6c-995d-53e39a82669f)
 
 ![Screenshot 2025-05-22 140044](https://github.com/user-attachments/assets/0962b0d1-6c0a-47ea-996b-cc216729ed1f)
 
