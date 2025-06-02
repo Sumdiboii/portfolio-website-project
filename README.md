@@ -10,6 +10,11 @@
 <br>
 <br>
 
+![Copy of Copy of Your paragraph text](https://github.com/user-attachments/assets/bffaa111-8476-4794-b3dc-5ccec6870cf8)
+
+
+<br>
+
 <h1 align="center" style="color:#F61C1C;">😎&nbsp;&nbsp;Portfolio Website&nbsp;&nbsp;🔥</h1>
 <h3 align="center" style="color:#F61C1C;">by Sumedh Pimplikar</h3>
 </p>
