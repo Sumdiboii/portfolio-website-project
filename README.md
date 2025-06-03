@@ -10,16 +10,17 @@
 <br>
 <br>
 
-![Copy of Copy of Your paragraph text](https://github.com/user-attachments/assets/bffaa111-8476-4794-b3dc-5ccec6870cf8)
-
-
-<br>
-
 <h1 align="center" style="color:#F61C1C;">😎&nbsp;&nbsp;Portfolio Website&nbsp;&nbsp;🔥</h1>
 <h3 align="center" style="color:#F61C1C;">by Sumedh Pimplikar</h3>
 </p>
 
 <br>
+<br>
+
+![Copy of Copy of Your paragraph text](https://github.com/user-attachments/assets/12fbbcf8-0136-44ad-a09d-fe51d28a31a0)
+
+
+
 <br>
 
 <p align="center">
@@ -32,14 +33,18 @@
 
 <br>
 
+<p align="center">
 
-<br>![Screenshot 2025-05-22 140121](https://github.com/user-attachments/assets/d2303c5a-ff6e-47da-b59e-ac50ab18d7e1)
+   <img src="read-me-images/Screenshot 2025-05-22 140121.png" alt="Pokedex Detailed View Screenshot" />
+   
+  <img src="read-me-images/Screenshot 2025-05-22 135908.png" alt="Screenshot 2025-05-22 135908" />
 
-![Screenshot 2025-05-22 135908](https://github.com/user-attachments/assets/4c4ddc0b-eab5-4651-baae-1889ef8d3ec8)
+  <img src="read-me-images/Screenshot 2025-05-28 001344.png" alt="Pokedex Team Builder Screenshot" />
 
-![image](https://github.com/user-attachments/assets/d052b34c-f439-4f6c-995d-53e39a82669f)
+   <img src="read-me-images/Screenshot 2025-05-22 140044.png" alt="Screenshot 2025-05-22 140044" />
+</p>
 
-![Screenshot 2025-05-22 140044](https://github.com/user-attachments/assets/0962b0d1-6c0a-47ea-996b-cc216729ed1f)
+</p>
 
 <br>
 
@@ -162,32 +167,26 @@
     <th colspan="2" style="padding: 12px; font-size: 1.5em; text-align: center;">📬 Let's Collaborate</th>
   </tr>
  
+ <table>
   <tr>
     <td style="padding: 8px; font-weight: bold; vertical-align: middle;">📧 Email:</td>
-    <td style="padding: 8px; vertical-align: middle;">
-      <div style="text-align: center;">
-        <a href="mailto:sumedhpimplikar@gmail.com" style="text-decoration: none;">sumedhpimplikar@gmail.com</a>
-      </div>
+    <td style="padding: 8px; vertical-align: middle; text-align: center;">
+      <a href="mailto:sumedh.pimplikar22@pccoepune.org" style="text-decoration: none;">sumedh.pimplikar22@pccoepune.org</a>
     </td>
   </tr>
   <tr>
     <td style="padding: 8px; font-weight: bold; vertical-align: middle;">💼 LinkedIn:</td>
-    <td style="padding: 8px; vertical-align: middle;">
-      <div style="text-align: center;">
-        <a href="https://www.linkedin.com/in/sumedhpimplikar" target="_blank" style="text-decoration: none;">/sumedhpimplikar</a>
-      </div>
+    <td style="padding: 8px; vertical-align: middle; text-align: center;">
+      <a href="https://www.linkedin.com/in/sumedh-pimplikar" target="_blank" style="text-decoration: none;">/sumedh-pimplikar</a>
     </td>
   </tr>
   <tr>
     <td style="padding: 8px; font-weight: bold; vertical-align: middle;">💻 GitHub:</td>
-    <td style="padding: 8px; vertical-align: middle;">
-      <div style="text-align: center;">
-        <a href="https://github.com/sumedhpimplikar" target="_blank" style="text-decoration: none;">/sumedhpimplikar</a>
-      </div>
+    <td style="padding: 8px; vertical-align: middle; text-align: center;">
+      <a href="https://github.com/Sumdiboii" target="_blank" style="text-decoration: none;">/Sumdiboii</a>
     </td>
   </tr>
 </table>
-
 
 
 
@@ -219,14 +218,3 @@
 
 </body>
 </html>
-
-
-
-
-
-
-
-
-
-
-
