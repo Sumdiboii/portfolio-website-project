@@ -17,8 +17,9 @@
 <br>
 <br>
 
-![Copy of Copy of Your paragraph text](https://github.com/user-attachments/assets/12fbbcf8-0136-44ad-a09d-fe51d28a31a0)
-
+<p align="center">
+  <img src="read-me-images/Copy of Copy of Your paragraph text.png" alt="Pokedex Main Banner" />
+</p>
 
 
 <br>
